@@ -29,6 +29,13 @@ header{
     padding: 2rem;
     margin: 0;
 }
+header a{
+    text-decoration: none;
+    color: #000;
+}
+header a:hover{
+    color: bisque;
+}
 body{
     background-color: antiquewhite;
     margin: 0;
