@@ -7,7 +7,7 @@
     background-color: #fff5df;
     height: 100vh;
     padding: 5rem;
-    margin: 1rem;
+    margin: 1rem 0.1rem 1rem 0.1rem;
     color: darkred;
 }
 .description a{
