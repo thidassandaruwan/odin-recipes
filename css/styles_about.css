@@ -1,5 +1,5 @@
 .logo{
-    width: 7rem;
+    width: 5rem;
     border-radius: 15px;
 }
 
@@ -26,6 +26,7 @@ body{
 header{
     background-color: #fff5df;
     text-align: center;
+    font-size: small;
     padding: 1rem;
 }
 
